@@ -1,5 +1,5 @@
-#comp5349-assignment1
-##How to run the code
+# comp5349-assignment1
+## How to run the code
 This assignment was written and run on colab.
 
 For data import, I use colab to load google drive and read the dataset (.csv file) which is needed for this assignment from google drive.For each person the location where the dataset is stored in google drive is different. The code I use is as follows.
